@@ -10,4 +10,4 @@ Font based off of Vera Serif by Bitstream. [Here](https://www.fontsquirrel.com/l
 
 That says "Storybook Roman" in Storybook Roman.
 
-<iframe src = "https://codepen.io/my-tech/embed/VwrQxKK"></iframe>
+Type in Storybook Roman [here](https://codepen.io/my-tech/full/VwrQxKK).
