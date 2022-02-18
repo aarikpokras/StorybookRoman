@@ -6,6 +6,6 @@ Download [here](https://github.com/aarikpokras/StorybookRoman/releases/).
 
 Font based off of Vera Serif by Bitstream. [Here](https://www.fontsquirrel.com/license/bitstream-vera-serif) is the license.
 
-<img src = "https://i.ibb.co/5M92Lsy/image.png" />
+<img src = "https://i.ibb.co/1RbTj83/image.png" />
 
-That says "Hello!" in Storybook Roman.
+That says "Storybook Roman" in Storybook Roman.
